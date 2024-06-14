@@ -42,9 +42,9 @@
 
 ## Frameworks and Libraries
 <p>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DB0C2B?logo=angular&logoColor=white"></a>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-092D52?logo=react&logoColor=white"></a>
-   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DB0C2B?logo=angular&logoColor=white"></a>
 </p>
 
 ## Operating Systems
