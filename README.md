@@ -47,7 +47,7 @@
 ## Operating Systems
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux-000000?logo=linux&logoColor=white"></a>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white"></a>
 </p>
 
 ## Browsers
