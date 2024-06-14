@@ -7,7 +7,7 @@
  ```python
   class WhoAmI:
     user = 'Juan Jose Campanella'
-	current_edu = "Systems Engineering"
+	current_edu = "Software Engineer"
 	hobbies = [
 				'Gaming',
                          'Chilling',
