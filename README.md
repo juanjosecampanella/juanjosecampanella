@@ -37,11 +37,14 @@
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-1765B6?logo=java&logoColor=black"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-124982?logo=python&logoColor=yellow"></a>
 </p>
 
 ## Frameworks and Libraries
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
+   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-092D52?logo=react&logoColor=white"></a>
+   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DB0C2B?logo=angular&logoColor=white"></a>
 </p>
 
 ## Operating Systems
