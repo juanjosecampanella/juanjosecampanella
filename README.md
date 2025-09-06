@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/GitHub_JuanJoseCampanella.png"/>
+  <img src="/GitHub__JuanJoseCampanella.png"/>
 </div>
 
 ## Who am I?
